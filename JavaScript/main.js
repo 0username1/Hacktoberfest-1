@@ -6,3 +6,4 @@ for (i=0; i<=largest;i++){
         var largest=array[i];
     }
 }
+console.log(largest);
